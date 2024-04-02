@@ -1,0 +1,15 @@
+----------
+
+Classification of Data Structure
+    1. Linear Data structures:- Array , Dynamic array, Linked list, Stack, Queue, Deque, etc
+
+    2. Non- Linear Data structures:- BST, AVL, B- Tree, Graph, etc
+
+--------
+
+Algorthim:- An algorithm is the step by step linquistic(any language hindi, english whatever) representation of logic to solve a give problem. 
+
+so if anyone can read this alogrthim and now it can write in any coding such as language python, javascript, etc
+
+---------
+
